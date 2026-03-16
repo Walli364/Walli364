@@ -29,9 +29,6 @@ Welcome to my GitHub profile. I am passionate about cloud infrastructure, automa
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 📊 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Walli364&show_icons=true&theme=radical)](https://github.com/Walli364)
-
 ### 📫 How to reach me
 - **Email:** muhammadwaleedanjum@outlook.com
 - **LinkedIn:** [Muhammad Waleed](https://shorturl.at/ODTw7)
