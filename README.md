@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I am passionate about cloud infrastructure, automa
 
 **Cloud Architecture (AWS):**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-*Proficient in: EC2, S3, IAM, VPC*
+*EC2, S3, IAM, VPC*
 
 **Monitoring & Observability:**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
