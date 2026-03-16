@@ -30,8 +30,8 @@ Welcome to my GitHub profile. I am passionate about cloud infrastructure, automa
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 📊 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Walli364&show_icons=true&theme=radical)](https://github.com/Walli364)
 
 ### 📫 How to reach me
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **Email:** muhammadwaleedanjum@outlook.com
+- **LinkedIn:** [Muhammad Waleed](https://shorturl.at/ODTw7)
