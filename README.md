@@ -9,6 +9,19 @@ Welcome to my GitHub profile. I am passionate about cloud infrastructure, automa
 
 ---
 
+### 🚀 Featured DevOps Projects
+
+📁 **[Infrastructure as Code (IaC) with Terraform](YOUR_REPOSITORY_LINK_HERE)**
+* Automated the deployment of a highly available AWS infrastructure (VPC, Subnets, EC2, Security Groups) using custom, modular Terraform configurations published on the registry.
+
+📁 **[Automated Configuration Management via Ansible](YOUR_REPOSITORY_LINK_HERE)**
+* Wrote Ansible playbooks to provision servers, manage user permissions, and deploy application stacks across multiple remote nodes.
+
+📁 **[Infrastructure Observability & Monitoring Sandbox](YOUR_REPOSITORY_LINK_HERE)**
+* Implemented an end-to-end monitoring solution using Prometheus and Grafana, deploying Node Exporter and Beszel to tracks server metrics and trigger alerts.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 *   **Operating Systems & Scripting:**
@@ -34,6 +47,22 @@ Welcome to my GitHub profile. I am passionate about cloud infrastructure, automa
     *   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
     *   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
     * *Tools:* Node Exporter, Beszel
+
+---
+
+### 🏆 Certifications & Training
+📜 *[View Verified Credentials on LinkedIn](https://www.linkedin.com/in/muhammad-waleed-devops/details/certifications/)*
+
+*   **DevOps Master Program Graduate** – iTechNets
+*   **AWS Cloud Practitioner Essentials** – AWS (Coursera)
+*   **Introduction to Containers w/ Docker, Kubernetes & OpenShift** – IBM (Coursera)
+*   **Continuous Integration and Continuous Delivery (CI/CD)** – IBM (Coursera)
+*   **Hands-on Introduction to Linux Commands and Shell Scripting** – IBM (Coursera)
+*   **Introduction to Git and GitHub** – Google (Coursera)
+*   **The Bits and Bytes of Computer Networking** – Google (Coursera)
+*   **CCNAv7: Introduction to Networks** – Cisco Networking Academy
+*   **DCA (Docker Certified Associate) Specialization** – Learnkarts (Coursera)
+*   **OS Virtualization** – Illinois Tech (Coursera)
 
 ---
 
