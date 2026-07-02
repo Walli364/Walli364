@@ -9,19 +9,6 @@ Welcome to my GitHub profile. I am passionate about cloud infrastructure, automa
 
 ---
 
-### 🚀 Featured DevOps Projects
-
-📁 **[Infrastructure as Code (IaC) with Terraform](YOUR_REPOSITORY_LINK_HERE)**
-* Automated the deployment of a highly available AWS infrastructure (VPC, Subnets, EC2, Security Groups) using custom, modular Terraform configurations published on the registry.
-
-📁 **[Automated Configuration Management via Ansible](YOUR_REPOSITORY_LINK_HERE)**
-* Wrote Ansible playbooks to provision servers, manage user permissions, and deploy application stacks across multiple remote nodes.
-
-📁 **[Infrastructure Observability & Monitoring Sandbox](YOUR_REPOSITORY_LINK_HERE)**
-* Implemented an end-to-end monitoring solution using Prometheus and Grafana, deploying Node Exporter and Beszel to tracks server metrics and trigger alerts.
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 *   **Operating Systems & Scripting:**
